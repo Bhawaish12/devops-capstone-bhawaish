@@ -1,0 +1,9 @@
+.git
+.github
+.gitignore
+README.md
+Jenkinsfile
+deploy.sh
+.env
+.env.*
+*.log
